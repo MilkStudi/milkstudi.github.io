@@ -14,22 +14,6 @@ table, th, td {
     margin-left: auto;
     margin-right: auto;
   }
-
-  /* Below is the <hr class="rounded"> CSS
-  /* Dashed border */
-hr.dashed {
-    border-top: 3px dashed #bbb;
-  }
-  
-  /* Dotted border */
-  hr.dotted {
-    border-top: 3px dotted #bbb;
-  }
-  
-  /* Solid border */
-  hr.solid {
-    border-top: 3px solid #bbb;
-  }
   
   /* Rounded border */
   hr.rounded {
